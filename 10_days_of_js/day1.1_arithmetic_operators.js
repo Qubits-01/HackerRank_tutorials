@@ -30,6 +30,7 @@ function readLine() {
 *   
 *	Return a number denoting the rectangle's area.
 **/
+
 function getArea(length, width) {
     let area;
     // Write your code here
