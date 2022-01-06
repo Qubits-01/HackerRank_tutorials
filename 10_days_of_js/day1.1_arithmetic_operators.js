@@ -55,7 +55,6 @@ function getPerimeter(length, width) {
     return perimeter;
 }
 
-
 function main() {
     const length = +(readLine());
     const width = +(readLine());
